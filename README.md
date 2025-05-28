@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliou90
 - 👀 I’m interested in PHP, JAVA, and Python Pogrammation
-- 🌱 I’m currently learning coding. This year is my 3rd cycle (Licence) in Hight School 
+- 🌱 I’m currently learning coding. This year is my 3rd cycle (Licence) in Hight School (2023)
 - 💞️ I’m looking to collaborate on PHP, JAVA, and Python Pogrammation
 - 📫 How to reach me ...
 
