@@ -8,10 +8,12 @@ Je crée des outils pratiques et des applications robustes pour les utilisateurs
 - Langages : Python, PHP, JavaScript
 - Frameworks : Django, Laravel, PyQt
 - Bases de données : MySQL, SQLite
-- Outils : Git, GitHub, Linux, VirtualBox
+- Outils : Git, GitHub, Linux, VirtualBox, Docker etc..
+- Plateforme Cloud : AWS (EC2, Lambda etc...)
 
 ## 💼 Projets épinglés
-- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
+- [Taskify](https://github.com/aliou90/Taskify.git) - Gestionnaire de tâches multi-utilisateur.
+-  [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
 - [Xassidati](https://github.com/aliou90/xassidati) - Gestion et lecture de livres en ligne
 - [ToubaXassida](https://github.com/aliou90/ToubaXassida) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
 - [Sama Shop](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App-) - Application desktop de gestion commerciale
