@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @aliou90
-- 👀 I’m interested in PHP, JAVA, and Python Pogrammation
-- 🌱 I’m currently learning coding. This year is my 3rd cycle (Licence) in Hight School (2023)
-- 💞️ I’m looking to collaborate on PHP, JAVA, and Python Pogrammation
-- 📫 How to reach me ...
+# Aliou Mbengue - Développeur Fullstack
 
-<!---
-aliou90/aliou90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Bonjour !
+Je suis Aliou Mbengue, passionné par le développement web, les applications desktop et l'analyse de données.  
+Je crée des outils pratiques et des applications robustes pour les utilisateurs et entreprises.
+
+## 🛠️ Compétences
+- Langages : Python, PHP, JavaScript
+- Frameworks : Django, Laravel, PyQt
+- Bases de données : MySQL, SQLite
+- Outils : Git, GitHub, Linux, VirtualBox
+
+## 💼 Projets épinglés
+- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
+- [Xassidati](https://github.com/aliou90/xassidati) - Gestion et lecture de livres en ligne
+- [ToubaXassida](https://github.com/aliou90/ToubaXassida) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
+- [Sama Shop](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App-) - Application desktop de gestion commerciale
+- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024
+- [Éditeur d'Images](https://github.com/aliou90/imageseditor.git) - Éditeur d'images en ligne (Suppression Background, Redimensionnement, couleurs de fond, Rotation etc... )
+- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) - Plateforme de formation en ligne
+
+## 📫 Contact
+- Email : mbengue.tech@gmail.com
+- LinkedIn : https://www.linkedin.com/in/aliou-mbengue-ba6b3023a/
+- GitHub : https://github.com/aliou90
+
+## ⚡ Astuce
+Mon Portfolio est régulièrement mis à jour avec mes nouveaux projets et expériences.
+
+
+
