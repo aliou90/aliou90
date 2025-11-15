@@ -1,4 +1,4 @@
-# Aliou Mbengue - Développeur Fullstack / DevOps (Junior)
+# Aliou Mbengue - Développeur Fullstack & DevOps — Junior
 
 ## 👋 Bonjour ! Moi c'est Aliou Mbengue
 Je suis passionné par l'administration système, le Cloud computing, le développement web, les applications desktop et l'analyse de données.  
@@ -14,7 +14,7 @@ Je crée des outils pratiques et des applications et solutions d'automatisation 
 
 ## 💼 Projets épinglés
 - [Taskify](https://github.com/aliou90/Taskify.git) - Gestionnaire de tâches multi-utilisateur.
--  [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
+- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
 - [Xassidati](https://github.com/aliou90/xassidati) - Gestion et lecture de livres en ligne
 - [ToubaXassida](https://github.com/aliou90/ToubaXassida) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
 - [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
