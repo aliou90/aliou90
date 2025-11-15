@@ -1,14 +1,14 @@
 # Aliou Mbengue - Développeur Fullstack / DevOps Junior
 
 ## 👋 Bonjour !
-Je suis Aliou Mbengue, passionné par le développement web, les applications desktop et l'analyse de données.  
+Je suis Aliou Mbengue, passionné par l'administration système, le développement web,les applications desktop et l'analyse de données.  
 Je crée des outils pratiques et des applications robustes pour les utilisateurs et entreprises.
 
 ## 🛠️ Compétences
 - Langages : Python, PHP, JavaScript
 - Frameworks : Django, Laravel, Angular, Vue.js, PyQt
-- Bases de données : MySQL, SQLite
-- Outils : Git, GitHub, Linux, VirtualBox, Docker etc...
+- Bases de données : MySQL, SQLite, PostgeSQL
+- Outils : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
 - BI et Data : Pandas, Matplotlib, Seaborn
 - Plateforme Cloud : AWS (EC2, Lambda etc...)
 
