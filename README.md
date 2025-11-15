@@ -22,7 +22,7 @@ Je crée des outils pratiques et des applications robustes pour les utilisateurs
 - [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) - Téléchargeur de Médias rapide pour Telegram.
 - [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
 - [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024
-- [Éditeur d'Images](https://github.com/aliou90/imageseditor.git) - Éditeur d'images en ligne (Suppression Background, Redimensionnement, couleurs de fond, Rotation etc... )
+- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) - Éditeur d'images en ligne (Suppression Background, Redimensionnement, couleurs de fond, Rotation etc... )
 - [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) - Plateforme de formation en ligne
 
 ## 📫 Contact
