@@ -7,7 +7,7 @@ Je crée des outils pratiques et des applications robustes pour les utilisateurs
 ## 🛠️ Compétences
 - Langages : Python, PHP, JavaScript
 - Frameworks : Django, Laravel, Angular, Vue.js, PyQt
-- Bases de données : MySQL, SQLite, PostgeSQL
+- Bases de données : MySQL, SQLite, PostgreSQL
 - Outils : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
 - BI et Data : Pandas, Matplotlib, Seaborn
 - Plateforme Cloud : AWS (EC2, Lambda etc...)
