@@ -1,7 +1,7 @@
 # Aliou Mbengue - Développeur Fullstack & DevOps — Junior
 
-## 👋 Bonjour ! Moi c'est Aliou Mbengue
-Je suis passionné par l'administration système, le Cloud computing, le développement web, les applications desktop et l'analyse de données.  
+## 👋 Bonjour !
+Je suis Aliou Mbengue, passionné par l'administration système, le Cloud computing, le développement web, les applications desktop et l'analyse de données.  
 Je crée des outils pratiques et des applications et solutions d'automatisation robustes pour les utilisateurs et entreprises.
 
 ## 🛠️ Compétences
