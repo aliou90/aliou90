@@ -17,13 +17,14 @@ Je crée des outils pratiques et des applications robustes pour les utilisateurs
 -  [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
 - [Xassidati](https://github.com/aliou90/xassidati) - Gestion et lecture de livres en ligne
 - [ToubaXassida](https://github.com/aliou90/ToubaXassida) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
+- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
+- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) - Plateforme de formation en ligne.
+- [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) - Présentation de Produits (Front-End Angular).
 - [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) - Application desktop de gestion commerciale pour Windows.
--  [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) - Application desktop de gestion commerciale pour Linux.
+- [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) - Application desktop de gestion commerciale pour Linux.
 - [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) - Téléchargeur de Médias rapide pour Telegram.
 - [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
 - [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024
-- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
-- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) - Plateforme de formation en ligne
 
 ## 📫 Contact
 - Email : mbengue.tech@gmail.com
