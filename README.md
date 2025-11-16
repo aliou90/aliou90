@@ -15,20 +15,20 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - Plateforme Cloud : AWS (EC2, Lambda etc...)
 
 ## 💼 Projets épinglés
-- [Taskify](https://github.com/aliou90/Taskify.git) - Gestionnaire de tâches multi-utilisateur.
-- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) - Visualisation en directe et en détails des résultats des élections présidentielles
-- [Xassidati](https://github.com/aliou90/xassidati) - Gestion et lecture de livres en ligne
-- [ToubaXassida](https://github.com/aliou90/ToubaXassida) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
-- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
-- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) - Plateforme de formation en ligne.
-- [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) - Présentation de Produits (Front-End Angular).
-- [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) - Application desktop de gestion commerciale pour Windows.
-- [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) - Application desktop de gestion commerciale pour Linux.
-- [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) - Téléchargeur de Médias rapide pour Telegram.
-- [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
-- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024.
-- [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) - Téléverseur de cours image/audio pour Telegram
-- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) - Desktop App pour convertir des pdf en images
+- [Taskify](https://github.com/aliou90/Taskify.git) (Web App) - Gestionnaire de tâches multi-utilisateur.
+- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) (Web App) - Visualisation en directe et en détails des résultats des élections présidentielles
+- [Xassidati](https://github.com/aliou90/xassidati) (Web App) - Gestion et lecture de livres en ligne
+- [ToubaXassida](https://github.com/aliou90/ToubaXassida) (Web App) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
+- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Web App) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
+- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) (Web App) - Plateforme de formation en ligne.
+- [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) (Web App) - Présentation de Produits (Front-End Angular).
+- [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) (Desktop App) - Application desktop de gestion commerciale pour Windows.
+- [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) (Desktop App) - Application desktop de gestion commerciale pour Linux.
+- [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) (Desktop App) - Téléchargeur de Médias rapide pour Telegram.
+- [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) (Desktop App) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
+- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) (Desktop App) - Analyse et visualisation des données CAN 2024.
+- [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) (Desktop App) - Téléverseur de cours image/audio pour Telegram
+- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Desktop App) - Desktop App pour convertir des pdf en images
 
 ## 📫 Contact
 - Email : mbengue.tech@gmail.com
