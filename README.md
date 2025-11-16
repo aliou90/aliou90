@@ -26,7 +26,8 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) - Application desktop de gestion commerciale pour Linux.
 - [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) - Téléchargeur de Médias rapide pour Telegram.
 - [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
-- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024
+- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024.
+- [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) - Téléverseur de cours image/audio pour Telegram
 
 ## 📫 Contact
 - Email : mbengue.tech@gmail.com
