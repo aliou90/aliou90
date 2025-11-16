@@ -3,7 +3,7 @@
 ## 👋 Bonjour !
 👨‍💻 Moi c'est Aliou Mbengue
 
-Passionné par l'administration système 🖥️, le Cloud computing ☁️, le développement web 🌐, les applications desktop 🖱️ et l'analyse de données 📊.
+Je suis passionné par l'administration système 🖥️, le Cloud computing ☁️, le développement web 🌐, les applications desktop 🖱️ et l'analyse de données 📊.
 Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et des solutions d’automatisation robustes 🤖 pour les utilisateurs et les entreprises.
 
 ## 🛠️ Compétences
