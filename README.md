@@ -22,6 +22,7 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Web App) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
 - [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) (Web App) - Plateforme de formation en ligne.
 - [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) (Web App) - Présentation de Produits (Front-End Angular).
+- [Multimedia Web Scrapping](https://github.com/aliou90/Multimedia-Web-Scrapping.git) (Desktop App) - Extraire automatiquement les fichiers multimédias d’un site web (PDF, Images, Audios, Vidéos)
 - [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) (Desktop App) - Application desktop de gestion commerciale pour Windows.
 - [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) (Desktop App) - Application desktop de gestion commerciale pour Linux.
 - [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) (Desktop App) - Téléchargeur de Médias rapide pour Telegram.
