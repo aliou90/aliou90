@@ -28,6 +28,7 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
 - [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) - Analyse et visualisation des données CAN 2024.
 - [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) - Téléverseur de cours image/audio pour Telegram
+- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) - Desktop App pour convertir des pdf en images
 
 ## 📫 Contact
 - Email : mbengue.tech@gmail.com
