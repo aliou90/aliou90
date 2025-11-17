@@ -37,9 +37,9 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 
 
 ## 📫 Contact
-- Email : mbengue.tech@gmail.com
-- LinkedIn : https://www.linkedin.com/in/aliou-mbengue-ba6b3023a/
-- GitHub : https://github.com/aliou90
+- **Email** : mbengue.tech@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/aliou-mbengue-ba6b3023a/
+- **GitHub** : https://github.com/aliou90
 
 ## ⚡ Astuce
 Mon Portfolio est régulièrement mis à jour avec mes nouveaux projets et expériences.
