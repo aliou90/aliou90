@@ -7,12 +7,12 @@ Je suis passionné par l'administration système 🖥️, le Cloud computing ☁
 Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et des solutions d’automatisation robustes 🤖 pour les utilisateurs et les entreprises.
 
 ## 🛠️ Compétences
-- Langages : Python, PHP, JavaScript
-- Frameworks : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
-- Bases de données : MySQL, SQLite, PostgreSQL
-- Outils : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
-- BI et Data : Pandas, Matplotlib, Seaborn
-- Plateforme Cloud : AWS (EC2, Lambda etc...)
+- **Langages** : Python, PHP, JavaScript
+- **Frameworks** : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
+- **Bases de données** : MySQL, SQLite, PostgreSQL
+- **Outils** : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
+- **BI et Data** : Pandas, Matplotlib, Seaborn
+- **Plateforme Cloud** : AWS (EC2, Lambda etc...)
 
 ## 💼 Projets épinglés
 - [Taskify](https://github.com/aliou90/Taskify.git) (Web App) - Gestionnaire de tâches multi-utilisateur.
