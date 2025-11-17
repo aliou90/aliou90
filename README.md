@@ -6,6 +6,8 @@
 Je suis passionné par l'administration système 🖥️, le Cloud computing ☁️, le développement web 🌐, les applications desktop 🖱️ et l'analyse de données 📊.
 Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et des solutions d’automatisation robustes 🤖 pour les utilisateurs et les entreprises.
 
+---
+
 ## 🛠️ Compétences
 - **Langages** : Python, PHP, JavaScript
 - **Frameworks** : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
@@ -13,6 +15,8 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - **Outils** : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
 - **BI et Data** : Pandas, Matplotlib, Seaborn
 - **Plateforme Cloud** : AWS (EC2, Lambda etc...)
+
+---
 
 ## 💼 Projets épinglés
 - [Taskify](https://github.com/aliou90/Taskify.git) (Web App) - Gestionnaire de tâches multi-utilisateur.
@@ -35,14 +39,18 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Khassida Edtor](https://github.com/aliou90/Khassida-Editor.git) (Web App) - Éditeur en ligne spécialiser dans la saisie, l'enregistrement et l'édition de poèmes tout genre. 
 - [Geston Cinéma](https://github.com/aliou90/cinema.git) (Web App) - Gestion de base de données cinématogaphique à travers une interface Web.
 
+---
 
 ## 📫 Contact
 - **Email** : mbengue.tech@gmail.com
 - **LinkedIn** : https://www.linkedin.com/in/aliou-mbengue-ba6b3023a/
 - **GitHub** : https://github.com/aliou90
 
+---
+
 ## ⚡ Astuce
 Mon Portfolio est régulièrement mis à jour avec mes nouveaux projets et expériences.
 
+---
 
 * signé [@aliou90](https://github.com/aliou90)
