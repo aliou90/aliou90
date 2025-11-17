@@ -42,4 +42,4 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 Mon Portfolio est régulièrement mis à jour avec mes nouveaux projets et expériences.
 
 
-*signé [aliou90](https://github.com/aliou90)
+* signé [@aliou90](https://github.com/aliou90)
