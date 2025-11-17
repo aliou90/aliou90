@@ -31,7 +31,10 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) (Desktop App) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
 - [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) (Desktop App) - Analyse et visualisation des données CAN 2024.
 - [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) (Desktop App) - Téléverseur de cours image/audio pour Telegram
-- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Desktop App) - Desktop App pour convertir des pdf en images
+- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Desktop App) - Desktop App pour convertir des pdf en images.
+- [Khassida Edtor](https://github.com/aliou90/Khassida-Editor.git) (Web App) - Éditeur en ligne spécialiser dans la saisie, l'enregistrement et l'édition de poèmes tout genre. 
+- [Geston Cinéma](https://github.com/aliou90/cinema.git) (Web App) - Gestion de base de données cinématogaphique à travers une interface Web.
+
 
 ## 📫 Contact
 - Email : mbengue.tech@gmail.com
