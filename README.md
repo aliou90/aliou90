@@ -8,6 +8,16 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 
 ---
 
+## 🎯 Mon objectif
+Je me forme actuellement pour devenir un **expert DevOps**, en maîtrisant :  
+- L’automatisation des déploiements et infrastructures (CI/CD, Terraform, Ansible)  
+- La gestion et l’optimisation des environnements Cloud (AWS, Azure)  
+- La conteneurisation et l’orchestration (Docker, Kubernetes)  
+- La supervision, la sécurité et la fiabilité des systèmes  
+- L’amélioration continue des performances et de l’expérience utilisateur 
+
+---
+
 ## 🛠️ Compétences
 - **Langages** : Python, PHP, JavaScript
 - **Frameworks** : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
@@ -38,6 +48,15 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Desktop App) - Desktop App pour convertir des pdf en images.
 - [Khassida Edtor](https://github.com/aliou90/Khassida-Editor.git) (Web App) - Éditeur en ligne spécialiser dans la saisie, l'enregistrement et l'édition de poèmes tout genre. 
 - [Geston Cinéma](https://github.com/aliou90/cinema.git) (Web App) - Gestion de base de données cinématogaphique à travers une interface Web.
+
+---
+
+## 🤝 Collaboration
+Je suis motivé à collaborer avec des équipes et contributeurs sur des projets qui me permettent de :  
+- Appliquer et renforcer mes compétences DevOps et exceller en Fullstack  
+- Participer à l’automatisation des processus et infrastructures  
+- Contribuer à des projets open source ou internes  
+- Résoudre des problèmes complexes et créer des solutions fiables et performantes
 
 ---
 
