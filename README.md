@@ -8,7 +8,7 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 
 ## 🛠️ Compétences
 - Langages : Python, PHP, JavaScript
-- Frameworks : Django, Laravel, Angular, Vue.js, TypeScript, Tkinter, PyQt
+- Frameworks : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
 - Bases de données : MySQL, SQLite, PostgreSQL
 - Outils : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
 - BI et Data : Pandas, Matplotlib, Seaborn
