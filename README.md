@@ -20,6 +20,8 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 - [Xassidati](https://github.com/aliou90/xassidati) (Web App) - Gestion et lecture de livres en ligne
 - [ToubaXassida](https://github.com/aliou90/ToubaXassida) (Web App) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
 - [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Web App) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
+- [Éditeur d'Images Windows](https://github.com/aliou90/Windows-Images-Editor.git) (Desktop App) - Éditeur d'images complet et moderne pour Windows.
+- [Éditeur d'Images Linux](https://github.com/aliou90/Linux-Images-Editor.git) (Desktop App) - Éditeur d'images complet et moderne pour Linux.
 - [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) (Web App) - Plateforme de formation en ligne.
 - [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) (Web App) - Présentation de Produits (Front-End Angular).
 - [Multimedia Web Scrapping](https://github.com/aliou90/Multimedia-Web-Scrapping.git) (Desktop App) - Extraire automatiquement les fichiers multimédias d’un site web (PDF, Images, Audios, Vidéos)
@@ -40,4 +42,4 @@ Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et 
 Mon Portfolio est régulièrement mis à jour avec mes nouveaux projets et expériences.
 
 
-
+@aliou90
