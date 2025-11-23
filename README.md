@@ -29,26 +29,26 @@ Je me forme actuellement pour devenir un **expert DevOps**, en maîtrisant :
 ---
 
 ## 💼 Projets épinglés
-- [Taskify](https://github.com/aliou90/Taskify.git) (Web App) - Gestionnaire de tâches multi-utilisateur.
-- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) (Web App) - Visualisation en directe et en détails des résultats des élections présidentielles
-- [Xassidati](https://github.com/aliou90/xassidati) (Web App) - Gestion et lecture de livres en ligne
-- [ToubaXassida](https://github.com/aliou90/ToubaXassida) (Web App) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
-- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Web App) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
-- [Éditeur d'Images Windows](https://github.com/aliou90/Windows-Images-Editor.git) (Desktop App) - Éditeur d'images complet et moderne pour Windows.
-- [Éditeur d'Images Linux](https://github.com/aliou90/Linux-Images-Editor.git) (Desktop App) - Éditeur d'images complet et moderne pour Linux.
-- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) (Web App) - Plateforme de formation en ligne.
-- [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) (Web App) - Présentation de Produits (Front-End Angular).
-- [Multimedia Web Scrapping](https://github.com/aliou90/Multimedia-Web-Scrapping.git) (Desktop App) - Extraire automatiquement les fichiers multimédias d’un site web (PDF, Images, Audios, Vidéos)
-- [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) (Desktop App) - Application desktop de gestion commerciale pour Windows.
-- [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) (Desktop App) - Application desktop de gestion commerciale pour Linux.
-- [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) (Desktop App) - Téléchargeur de Médias rapide pour Telegram.
-- [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) (Desktop App) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
-- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) (Desktop App) - Analyse et visualisation des données CAN 2024.
-- [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) (Desktop App) - Téléverseur de cours image/audio pour Telegram
-- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Desktop App) - Desktop App pour convertir des pdf en images.
-- [Khassida Edtor](https://github.com/aliou90/Khassida-Editor.git) (Web App) - Éditeur en ligne spécialiser dans la saisie, l'enregistrement et l'édition de poèmes tout genre. 
-- [Geston Cinéma](https://github.com/aliou90/cinema.git) (Web App) - Gestion de base de données cinématogaphique à travers une interface Web.
-- [Geston Légumes](https://github.com/aliou90/Le-legumien.git) (Web App full-stack Laravel + Vue.js) - Gestion et présentation de Produits (Légumes).
+- [Taskify](https://github.com/aliou90/Taskify.git) (PHP - Bootstrap) - Gestionnaire de tâches multi-utilisateur.
+- [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Django) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
+- [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) (PHP - Bootstrap) - Visualisation en directe et en détails des résultats des élections présidentielles
+- [Xassidati](https://github.com/aliou90/xassidati) (PHP - Bootstrap) - Gestion et lecture de livres en ligne
+- [ToubaXassida](https://github.com/aliou90/ToubaXassida) (PHP - Bootstrap) - Bibliothèque des Œuvres de Cheikh Ahmadou Bamba
+- [Éditeur d'Images Windows](https://github.com/aliou90/Windows-Images-Editor.git) (Python Desktop App) - Éditeur d'images complet et moderne pour Windows.
+- [Éditeur d'Images Linux](https://github.com/aliou90/Linux-Images-Editor.git) (Python Desktop App) - Éditeur d'images complet et moderne pour Linux.
+- [Centre-de-formation-Bamba](https://github.com/aliou90/Centre-de-formation-Bamba.git) (Python Desktop App) - Plateforme de formation en ligne.
+- [La Bonne affaire](https://github.com/aliou90/La-bonne-affaire.git) (Angular Web App) - Présentation de Produits (Front-End Angular).
+- [Multimedia Web Scrapping](https://github.com/aliou90/Multimedia-Web-Scrapping.git) (Python Desktop App) - Extraire automatiquement les fichiers multimédias d’un site web (PDF, Images, Audios, Vidéos)
+- [Sama Shop (Windows Desktop)](https://github.com/aliou90/Sama-Shop-Windows-Desktp-App.git) (Python Desktop App) - Application desktop de gestion commerciale pour Windows.
+- [Sama Shop (Linux Desktop)](https://github.com/aliou90/Sama-Shop---Linux-Desktop-App.git) (Python Desktop App) - Application desktop de gestion commerciale pour Linux.
+- [Telegram Media Fast Downloader](https://github.com/aliou90/Telegram-Medias-Fast-Downloader.git) (Python Desktop App) - Téléchargeur de Médias rapide pour Telegram.
+- [Youtube Plus Downloader](https://github.com/aliou90/Youtube-Plus-Downloader.git) (Python Desktop App) - Téléchargeur de Vidéos/Audios Youtube et plusieurs autres sites web.
+- [CAN2024-DATASET](https://github.com/aliou90/CAN2024-DATASET) (Python Desktop App) - Analyse et visualisation des données CAN 2024.
+- [Telegram Course Publisher](https://github.com/aliou90/Telegram-Course-Publisher.git) (Python Desktop App) - Téléverseur de cours image/audio pour Telegram
+- [PDFs To IMG Converter](https://github.com/aliou90/PDF-to-IMG-Converter.git) (Python Desktop App) - Desktop App pour convertir des pdf en images.
+- [Khassida Edtor](https://github.com/aliou90/Khassida-Editor.git) (PHP - Bootstrap) - Éditeur en ligne spécialiser dans la saisie, l'enregistrement et l'édition de poèmes tout genre. 
+- [Geston Cinéma](https://github.com/aliou90/cinema.git) (PHP - Bootstrap) - Gestion de base de données cinématogaphique à travers une interface Web.
+- [Geston Légumes](https://github.com/aliou90/Le-legumien.git) (Laravel - Vue.js) - Gestion et présentation de Produits (Légumes).
 
 
 ---
