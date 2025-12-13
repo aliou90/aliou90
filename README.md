@@ -1,4 +1,4 @@
-# Aliou Mbengue - Développeur Fullstack & DevOps — Junior
+# Aliou Mbengue - Administrateur Systèmes / Développeur Fullstack
 
 ## 👋 Bonjour !
 👨‍💻 Moi c'est **Aliou Mbengue**
