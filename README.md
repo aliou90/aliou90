@@ -1,4 +1,4 @@
-# Aliou Mbengue - Administrateur Systèmes / Développeur Fullstack
+# Aliou Mbengue - Administrateur Systèmes informatiques / Développeur Fullstack
 
 ## 👋 Bonjour !
 👨‍💻 Moi c'est **Aliou Mbengue**
