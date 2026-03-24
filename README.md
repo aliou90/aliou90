@@ -1,30 +1,51 @@
-# Aliou Mbengue - Administrateur Systèmes informatiques / Développeur Fullstack
+# Aliou Mbengue - Développeur Fullstack | Consultant en Marketing Digital
 
 ## 👋 Bonjour !
 👨‍💻 Moi c'est **Aliou Mbengue**
 
-Je suis passionné par l'administration système 🖥️, le Cloud computing ☁️, le développement web 🌐, les applications desktop 🖱️ et l'analyse de données 📊.
-Je conçois des outils pratiques 🛠️, des applications performantes 🚀 et des solutions d’automatisation robustes 🤖 pour les utilisateurs et les entreprises.
+Je suis un expert polyvalent passionné par l'**Administration Système** 🖥️, le **Cloud Computing** ☁️, le **Développement Web** 🌐 et le **Marketing Digital** 📊. 
+
+Je conçois des solutions logicielles robustes et je pilote des stratégies de croissance numérique pour aider les entreprises dans leur transformation digitale. Mon approche combine la rigueur technique du développement et l'efficacité stratégique du marketing pour garantir une évolution exponentielle à mes partenaires.
 
 ---
 
 ## 🎯 Mon objectif
-Je me forme actuellement pour devenir un **expert DevOps**, en maîtrisant :  
-- L’automatisation des déploiements et infrastructures (CI/CD, Terraform, Ansible)  
-- La gestion et l’optimisation des environnements Cloud (AWS, Azure)  
-- La conteneurisation et l’orchestration (Docker, Kubernetes)  
-- La supervision, la sécurité et la fiabilité des systèmes  
-- L’amélioration continue des performances et de l’expérience utilisateur 
+Actuellement Consultant Digital et Fondateur de **Taysir Digital Group**, mon but est de fusionner l'ingénierie logicielle et le marketing de performance. Je poursuis ma spécialisation pour devenir un expert DevOps et un stratège digital complet, en maîtrisant :
+
+* **Automatisation & Cloud :** Déploiement d'infrastructures sur AWS, CI/CD et optimisation des environnements cloud.
+* **Performance Web :** Étude comparative et optimisation de la vitesse des applications (Serveurs classiques vs Cloud).
+* **Visibilité & Croissance :** Maîtrise du SEO local, de l'acquisition via les réseaux sociaux et de la mise en place de tunnels de vente automatisés.
+* **Fiabilité des Systèmes :** Sécurité des applications et administration avancée Linux/Windows.
 
 ---
 
 ## 🛠️ Compétences
-- **Langages** : Python, PHP, JavaScript
-- **Frameworks** : Django, Laravel, Vue.js, Bootstrap, Angular, TypeScript, Tkinter, PyQt
-- **Bases de données** : MySQL, SQLite, PostgreSQL
-- **Outils** : Git, GitHub, Linux, Windows, VirtualBox, Docker etc...
-- **BI et Data** : Pandas, Matplotlib, Seaborn
-- **Plateforme Cloud** : AWS (EC2, Lambda etc...)
+
+### 💻 Tech Stack (Développement & Ops)
+* **Langages :** Python, PHP, JavaScript.
+* **Frameworks :** Laravel, Django, Vue.js, Angular, Bootstrap, PyQt.
+* **Bases de données :** MySQL (SQL Intermediate), SQLite, PostgreSQL.
+* **Infrastructure & Cloud :** AWS (EC2, Lambda, Compute), Docker, Virtualisation, Linux (Essentials).
+* **Data Analysis :** Pandas, Matplotlib, Seaborn, Google Analytics.
+
+### 📈 Marketing Digital & Stratégie
+* **Référencement Local (SEO) :** Optimisation avancée Google Business Profile et indexation stratégique.
+* **Social Media Marketing :** Gestion de l'écosystème Facebook, Instagram, TikTok et Telegram.
+* **Conversion :** Création de tunnels de vente via WhatsApp et automatisation de l'acquisition client.
+* **Content Management :** Production multimédia et gestion de contenu web publicitaire.
+
+---
+
+## 💼 Expériences & Consulting Digital
+
+**Fondateur | Taysir Digital Group (EI)** (Mars 2026 - Présent)
+* Accompagnement stratégique et solutions numériques pour entreprises.
+
+**Consultant & Responsable Marketing Digital | Multi-entreprises (Pikine)** (Fév 2026 - Présent)
+* **Repro Graphic :** Stratégie SEO locale (Google Business Profile) et tunnels de vente WhatsApp. [Voir le profil](https://share.google/mmXYdVrUc5TnutIu7)
+* **Misco Beauté Plus :** Pilotage de la visibilité numérique et marketing. [Voir le profil](https://share.google/Y7E7i592Gy1JTLptl)
+* **Quincaillerie Sylla et Frères :** Responsable marketing numérique. [Voir le profil](https://share.google/FJqYkYIDVnOboeAew)
+* **K2B Tissus :** Consultant en stratégie de croissance digitale. [Voir le profil](https://share.google/Vhhjy9Eo7LwYItw7p)
 
 ---
 
