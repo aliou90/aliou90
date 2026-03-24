@@ -85,7 +85,7 @@ Je suis motivé à collaborer avec des équipes et contributeurs sur des projets
 
 ## 📫 Contact
 - **Email** : mbengue.tech@gmail.com
-- **LinkedIn** : https://www.linkedin.com/in/aliou-mbengue-ba6b3023a/
+- **LinkedIn** : https://www.linkedin.com/in/aliou90
 - **GitHub** : https://github.com/aliou90
 
 ---
