@@ -42,6 +42,7 @@ Actuellement Consultant Digital et Fondateur de **Taysir Digital Group**, mon bu
 * Accompagnement stratégique et solutions numériques pour entreprises.
 
 **Consultant & Responsable Marketing Digital | Multi-entreprises (Pikine)** (Fév 2026 - Présent)
+
 **-- Étude de Cas --**
 * **Repro Graphic :** Stratégie SEO locale (Google Business Profile) et tunnels de vente WhatsApp. [Voir le profil](https://share.google/mmXYdVrUc5TnutIu7)
 * **Misco Beauté Plus :** Pilotage de la visibilité numérique et marketing. [Voir le profil](https://share.google/Y7E7i592Gy1JTLptl)
