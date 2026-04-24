@@ -53,7 +53,8 @@ Actuellement Consultant Digital et Fondateur de **Taysir Digital Group**, mon bu
 ---
 
 ## 💼 Projets épinglés
-- [Taysir Server Manager Pro](https://github.com/aliou90/Taysir-Server-Manager-Pro.git) (Python Desktop App)** - Solution professionnelle de gestion multi-serveurs PHP et MySQL avec interface moderne (Dark/Light).
+- [Gestion Commerciale Pro App](https://github.com/aliou90/Gestion-Commerciale-App---App-Complet.git) (Python Flask Web App) - Application de Gestion commerciale Moderne et PREMIUM, totalement personnalisable.
+- [Taysir Server Manager Pro](https://github.com/aliou90/Taysir-Server-Manager-Pro.git) (Python Desktop App) - Solution professionnelle de gestion multi-serveurs PHP et MySQL avec interface moderne (Dark/Light).
 - [Taskify](https://github.com/aliou90/Taskify.git) (PHP - Bootstrap) - Gestionnaire de tâches multi-utilisateur.
 - [Éditeur d'Images en ligne](https://github.com/aliou90/imageseditor.git) (Django) - Suppression Background, Redimensionnement, couleurs de fond, Rotation etc..
 - [Présidentielles - Realtime](https://github.com/aliou90/election_presidentielle_realtime.git) (PHP - Bootstrap) - Visualisation en directe et en détails des résultats des élections présidentielles
