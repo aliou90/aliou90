@@ -46,7 +46,8 @@ Actuellement Consultant Digital et Fondateur de **Taysir Digital Group**, mon bu
 * **Misco Beauté Plus :** Pilotage de la visibilité numérique et marketing. [Voir le profil](https://share.google/Y7E7i592Gy1JTLptl)
 * **Quincaillerie Sylla et Frères :** Responsable marketing numérique. [Voir le profil](https://share.google/FJqYkYIDVnOboeAew)
 * **K2B Tissus :** Consultant en stratégie de croissance digitale. [Voir le profil](https://share.google/Vhhjy9Eo7LwYItw7p)
-
+* **Restaurant La Terrasse :** Consultant en stratégie de croissance digitale. [Voir le profil](https://share.google/yly5H1xbqkReqbfU4)
+* **Fall Bois Industries :** Consultant en stratégie de croissance digitale. [Voir le profil](https://share.google/4E7VmW180AydSPIpb)
 ---
 
 ## 💼 Projets épinglés
